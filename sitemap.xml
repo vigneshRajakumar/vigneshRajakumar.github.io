@@ -11,6 +11,10 @@
   </url>
   
   <url>
+    <loc>https://vigneshrajakumar.github.io/tag/machinelearning/</loc>
+  </url>
+  
+  <url>
     <loc>https://vigneshrajakumar.github.io/post/</loc>
   </url>
   
@@ -48,6 +52,10 @@
   
   <url>
     <loc>https://vigneshrajakumar.github.io/author/vignesh-rajakumar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vigneshrajakumar.github.io/project/wine-predict/</loc>
   </url>
   
 </urlset>
