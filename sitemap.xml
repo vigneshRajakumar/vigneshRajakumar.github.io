@@ -11,11 +11,27 @@
   </url>
   
   <url>
+    <loc>https://vigneshrajakumar.github.io/tag/dash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vigneshrajakumar.github.io/project/movie-selection/</loc>
+  </url>
+  
+  <url>
     <loc>https://vigneshrajakumar.github.io/tag/machinelearning/</loc>
   </url>
   
   <url>
+    <loc>https://vigneshrajakumar.github.io/tag/plotly/</loc>
+  </url>
+  
+  <url>
     <loc>https://vigneshrajakumar.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vigneshrajakumar.github.io/project/airbnb-recommend/</loc>
   </url>
   
   <url>
@@ -56,6 +72,10 @@
   
   <url>
     <loc>https://vigneshrajakumar.github.io/project/wine-predict/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vigneshrajakumar.github.io/tag/xgboost/</loc>
   </url>
   
 </urlset>

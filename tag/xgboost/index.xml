@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MachineLearning | Vignesh Rajakumar</title>
-    <link>https://vigneshrajakumar.github.io/tag/machinelearning/</link>
-      <atom:link href="https://vigneshrajakumar.github.io/tag/machinelearning/index.xml" rel="self" type="application/rss+xml" />
-    <description>MachineLearning</description>
+    <title>XGBoost | Vignesh Rajakumar</title>
+    <link>https://vigneshrajakumar.github.io/tag/xgboost/</link>
+      <atom:link href="https://vigneshrajakumar.github.io/tag/xgboost/index.xml" rel="self" type="application/rss+xml" />
+    <description>XGBoost</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://vigneshrajakumar.github.io/images/icon_hue73244445c53fd120a9ea8b4ffbe03f9_29120_512x512_fill_lanczos_center_2.png</url>
-      <title>MachineLearning</title>
-      <link>https://vigneshrajakumar.github.io/tag/machinelearning/</link>
+      <title>XGBoost</title>
+      <link>https://vigneshrajakumar.github.io/tag/xgboost/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://vigneshrajakumar.github.io/project/airbnb-recommend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vigneshrajakumar.github.io/project/airbnb-recommend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wine Quality Predictions</title>
-      <link>https://vigneshrajakumar.github.io/project/wine-predict/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vigneshrajakumar.github.io/project/wine-predict/</guid>
       <description></description>
     </item>
     
